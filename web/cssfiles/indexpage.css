@@ -1,0 +1,146 @@
+.bg-black {
+    background-color: #FFF;
+}
+
+.main {
+    margin: 0px auto;
+    width: 100%;
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+#center-body{
+    margin-top: 150px;
+    float:left;
+    width:100%;
+    margin: 0 auto;
+}
+ #left-center{
+     background-color:#a6e1ec;
+     margin-top: 75px;
+    float:left;
+    width:34%;
+    margin-right: 1%;
+    
+}
+ #middle-center{
+     margin-top: 75px;
+    float:left;
+    width:30%;
+   // margin-right: 1%;
+}
+ #right-center{
+     background-color:#a6e1ec;
+     margin-top: 75px;
+    float:left;
+    width:34%;
+    margin-left: 1%;  
+}
+
+.bg-black {
+    background-color: #FFF;
+}
+ .bg-black {
+    color: #F9F9F9 !important;
+}
+html, body {
+    overflow-x: hidden !important;
+    font-family: "Source Sans Pro",sans-serif;
+    min-height: 100%;
+    background: none repeat scroll 0% 0% #F9F9F9;
+}
+body {
+    
+    line-height: 1.42857;
+    font-size: 14px;
+margin: 0px;
+   
+}
+.form-box {
+   // position: fixed;
+    //width: 360px;
+    //margin: 150px 0px auto 440px;
+    height: 370px;
+}
+
+a {
+    color: #3C8DBC;
+    text-decoration: none;
+}
+
+.form-box .header {
+    border-radius: 4px 4px 0px 0px;
+    background: none repeat scroll 0% 0% #5bc0de;
+    box-shadow: 0px -3px 0px rgba(0, 0, 0, 0.1) inset;
+    padding: 20px 10px;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 300;
+    color: #FFF;
+}
+#login-box .bg-gray {
+    height: 190px;
+}
+.form-box .body, .form-box .footer {
+    padding: 10px 20px;
+    background: none repeat scroll 0% 0% #FFF;
+    color: #444;
+}
+.bg-gray {
+    background-color: aliceblue !important;
+}
+.form-box .body > .form-group, .form-box .footer > .form-group {
+    margin-top: 26px;
+}
+
+.form-box .body > .form-group > input, .form-box .footer > .form-group > input {
+    border: medium none #FFF;
+}
+.form-control {
+    border-radius: 0px !important;
+    box-shadow: none;
+}
+
+input, button, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+button, input {
+    line-height: normal;
+}
+button, input, select, textarea {
+    margin: 0px;
+    font-family: inherit;
+    font-size: 100%;
+}
+
+.form-box .footer {
+    border-radius: 0px 0px 4px 4px;
+}
+.form-box .body, .form-box .footer {
+    padding: 10px 20px;
+    background: none repeat scroll 0% 0% #5bc0de;
+    color: #444;
+}
+
+.form-box .body > .btn, .form-box .footer > .btn {
+    margin-bottom: 10px;
+    background-color: steelblue;
+color: #fff;
+}
+a {
+    background: none repeat scroll 0% 0% transparent;
+}
+.foot_cw {
+    background-color: lightblue;
+    position: fixed;
+    height: 20px;
+    margin-top: 550px;
+    margin-right: 70px;
+    margin-left: 70px;
+    width: 89%;
+}
+

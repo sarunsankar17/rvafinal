@@ -1,0 +1,61 @@
+.regform
+          {
+           //margin:0;
+            width:auto;
+            //height:max;
+            //align:middle;
+            background-color: aliceblue;
+          }
+          .form1{
+            //align:center;
+            margin-left: 25px;
+            width:600px;
+           
+          }
+          p
+          {
+            font-size: 15px;
+          }
+          
+          p, input,select{
+            line-height: 10px;
+            margin-left:300px;
+            padding:0px;
+            
+          }
+          textarea{
+              margin-left:300px;
+              background-color: #F3F3F3;
+          }
+          textarea:focus{
+            background-color: #FFFFFF;
+          }
+          input,select {
+            
+            width:250px;
+            height:25px;
+            background-color: #F3F3F3;
+          }
+         
+          #radmal
+          {
+            margin-left: 300px;
+            width:15px;
+            height:15px;
+          }
+          #radfmal
+          {
+             margin-left: 30px;
+             height:15px;
+            width:15px;
+          }
+          input:focus,select:focus{
+            background-color:#FFFFFF;
+          }
+         #submit{
+            background-color: darkgray;
+            margin-top: 10px;
+          }
+          h1{
+            color : #0d70b7;
+          }

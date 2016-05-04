@@ -1,0 +1,204 @@
+
+		.main-container{
+			width: 100%;
+			//border: 1px solid #000;
+			height: auto;
+			overflow: hidden;
+		}
+		.header{
+			//float: left;
+			//width: 100%;
+			//background: green;
+		}
+		.header .logo{
+			float: left;
+			width: 100%;
+                     height:68px;
+                        
+		}
+                #cur
+                {
+                  
+                    color:red;
+                }
+                .logo .l-logo {
+float: left;
+width: 230px;
+}
+               .logo .welcomenote {
+    float: left;
+    margin: 0 0 0px 55px;
+    padding-top: 10px;
+    width: 560px;
+    height: 68px;
+}
+                .logo .r-uname {
+float: left;
+width: 245px;
+height: 50px;
+/* margin: 0px 0 0 1048px; */
+}
+#profpic{
+  width:60px;
+ float:left; 
+}
+#profpic img{
+  width:60px;
+ float:left; 
+}
+ .r-uname .uname {
+float: left;
+/* float: left; */
+width: 300px;
+height: 25px;
+//padding-top: 10px;
+margin: 0px 0px 2px 100px;
+}
+                .r-uname .lout {
+float: left;
+float: left;
+width: 215px;
+height: 50px;
+}
+		.header .head-menu{
+                    height:30px;
+			float: left;
+			width: 100%;
+			margin: 2px 0 0 0;
+                        background: #5bc0de;
+                        overflow: hidden;
+		}
+                .menu li {
+                 width: 80px;
+                margin-left: 220px;
+                /* align-items: center; */
+                //border-right: 2px solid #000;
+                }
+.menu{
+    height: 30px;
+padding: 0px;
+margin: 10px 0 0 0px;
+}
+.header .menu li label{
+  margin-left:70px;
+}
+.header .menu a{
+  color: black;
+}
+.left-menu a{
+  color: gray;
+}
+.lmenu-title{
+  width:220px;
+  height:20px;
+  background-color: lightblue ;
+}
+.header .menu li{
+			float: left;
+                        list-style: none;
+                        padding: 0px 10px 0 3px;
+                        height: 30px;
+                        line-height: 20px;
+                        margin: 0px;
+                        color: white !important;
+                        width:80px;
+		}
+		
+		.body-container{
+			width: 90%;
+			margin: 0 auto;
+			//border: 1px solid #000;
+			height: auto;
+			overflow: hidden;
+                     //background-color: #e6e7e8;
+		}
+		.body-container .left-menu{
+			float: left;
+			height: auto;
+			overflow: hidden;
+			//border: 1px solid #000;
+			padding: 5px;
+			width: 220px;
+                        //border-right: solid aquamarine;
+		}
+		.center-body{
+			float: left;
+			width: 100%;
+			overflow: hidden;
+			margin: 5px 0 5px 0;
+		}
+		.right-container {
+    float: left;
+    width: 865px;
+    height: 540px;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    margin: 0 0 5px 20px;
+}
+		
+		.footer{
+			float: left;
+			width: 100%;
+			text-align: center;
+			background: #5bc0de;
+		}
+                a
+                { 
+                    text-decoration: none;
+                }
+                a:active {color: #0000ff; text-decoration: underline; }
+                .logo img {
+width: 200px;
+height: 68px;
+float: left;
+}
+                a:hover{
+                  
+                }
+               element.style {
+}
+.header .menu a {
+color: white;
+}
+.lout a {
+/* float: left; */
+/* width: 215px; */
+/* height: 50px; */
+/* width: 30px; */
+/* height: 10px; */
+text-decoration: underline;
+/* padding: 2px; */
+margin: 20px 0 0 725px;
+}
+                h6{
+                    font-size: 14px;
+                    margin:0px;
+                }
+                .icon{
+                    width:16px;
+                    height:16px;
+                }
+                
+                .lmenu-list{
+                  width:220px;
+                  height:auto;
+                  background-color: aliceblue;  
+                  margin:0px 0px 0px 0px;
+                  padding: 5px 0px 5px 0px;
+                }
+                .main-title{
+                  margin:5px 0px 0px 0px;
+                  color: deepskyblue;
+                }
+                #cr-foot{
+                  color:white;
+                }
+                .rbodytitle{
+                  width:100%;
+                  height:22px;
+                  margin-bottom: 5px;
+                  background-color: lightblue;
+                }
+                .welcomeuser{
+                  width:600px;
+                }
