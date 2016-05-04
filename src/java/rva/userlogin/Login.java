@@ -31,9 +31,9 @@ public class Login extends HttpServlet {
         PrintWriter out=response.getWriter();
         lb=(new LoginCheckDAO()).loginCheck(lb);
         //LogBean lb=new LogBean();
-        /*
+        
         out.println("Welcome to Retel");
-        out.println(lb.getUserid());
+        /*out.println(lb.getUserid());
         out.println(lb.getPassword());
         */
         status=lb.getStatus();
